@@ -25,8 +25,8 @@ App de busca de filmes e séries usando JavaScript puro e consumo de API.
 🦷 [DentalPage](https://jhonatanolivv.github.io/DentalPage/)  
  DentalPage – Landing Page para Clínica Odontológica
  
-🦷 [DentalPage](https://jhonatanolivv.github.io/DentalPage/)  
- DentalPage – Landing Page para Clínica Odontológica
+💼 [PortfolioPro](https://jhonatanolivv.github.io/PortfolioPro/)  
+ PortfolioPro – Portfólio Profissional de Desenvolvedor Front-end
 
 ---
 
