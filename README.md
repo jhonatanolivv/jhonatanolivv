@@ -30,6 +30,9 @@ App de busca de filmes e séries usando JavaScript puro e consumo de API.
  
 📈 [LeadFlow](https://jhonatanolivv.github.io/LeadFlow/)  
  LeadFlow – Landing Page para Geração de Leads
+ 
+💰 [FreelaSaldo](https://jhonatanolivv.github.io/FreelaSaldo/)  
+ FreelaSaldo – Dashboard de Controle Financeiro
 
 ---
 
