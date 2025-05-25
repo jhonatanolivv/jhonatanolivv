@@ -27,7 +27,7 @@ App de busca de filmes e séries usando JavaScript puro e consumo de API.
 ## 💼 Portfólio Online
 
 Acesse meu portfólio completo com projetos publicados:  
-🌐 [https://jhonatandevv-jhonatans-projects-68262867.vercel.app/][(https://jhonatandevv-jhonatans-projects-68262867.vercel.app/)](https://jhonatandevv-2y1v.vercel.app/)
+🌐 **Portfílio:** [Porfólio](https://jhonatandevv-2y1v.vercel.app/)
 
 ---
 
