@@ -1,6 +1,6 @@
 # 👨‍💻 Jhonatan O. | Desenvolvedor Front-End
 
-Olá! Sou um desenvolvedor front-end apaixonado por criar interfaces modernas, rápidas, acessíveis e que proporcionam uma ótima experiência ao usuário. Estou sempre em busca de evoluir como profissional e contribuir com projetos criativos.
+Sou um desenvolvedor front-end júnior especializado em HTML, CSS, JavaScript e React. Crio aplicações web responsivas e intuitivas focadas na experiência do usuário.
 
 ---
 
